@@ -7,9 +7,8 @@ Frontend Developer
 Dynamic Senior Front-End Developer with 7+ years of experience delivering user-focused web applications. Proficient in React, JavaScript (ES6+), HTML, CSS, and modern JavaScript frameworks, with expertise in creating scalable, responsive, and maintainable solutions. Adept at Agile methodologies, mentoring teams, and integrating testing tools like Jest and Cypress. Recognized for optimizing performance, improving code quality, and contributing to impactful projects across diverse domains, including finance, networking, and entertainment.
 
 * 🌍  I'm based in Canada
-* 🖥️  See my portfolio at [MyPortfolio](http://myportfolio.com)
+* 🖥️  See my portfolio at [MyPortfolio](http://myportfolio.com) (work in progress)
 * ✉️  You can contact me at [jesilaprin@gmail.com](mailto:jesilaprin@gmail.com)
-* 🚀  I'm currently working on [SomeApp](http://myapp.com)
 * 🧠  I'm learning Angular 18
 
 <a href="https://www.github.com/JesilaRatnaprin" target="_blank" rel="noreferrer"><img
